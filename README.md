@@ -1,5 +1,7 @@
 # NostrLogo
 Nostr Logo
+
+#5d0c8b
                                                                                                                                                                                                                                                                                                             
                                                                                                                                                                                                                                                                                                             
                                                                                                                                                                                                                                                                                                             
